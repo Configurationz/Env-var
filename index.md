@@ -119,7 +119,6 @@ sudo update-alternatives --config java
 Press <enter> to keep the current choice[*], or type selection number:
 
 
-
 References ~
 ----------
 [.1](https://mkyong.com/linux/how-to-set-environment-variable-in-ubuntu/){:target="_blank"}
@@ -135,5 +134,4 @@ References ~
 For Better understanding on where to download & extract the JDK files
 [Refer Here](https://stackoverflow.com/questions/56066875/where-to-install-jdk-tar-gz-file-on-ubuntu-18.04){:target="_blank"}
 
-:octocat:
-:octocat:
+🍵🍵🍵 
