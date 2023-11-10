@@ -118,17 +118,17 @@ Press <enter> to keep the current choice[*], or type selection number:
 
 
 
-Sources ~
+References ~
 ---------
-[Reference.1](https://mkyong.com/linux/how-to-set-environment-variable-in-ubuntu/){:target="_blank"}
+[.1](https://mkyong.com/linux/how-to-set-environment-variable-in-ubuntu/){:target="_blank"}
 
-[Reference.2](https://askubuntu.com/a/175519){:target="_blank"}
+[.2](https://askubuntu.com/a/175519){:target="_blank"}
 
-[Reference.3](https://stackoverflow.com/a/23427862/6297483){:target="_blank"}
+[.3](https://stackoverflow.com/a/23427862/6297483){:target="_blank"}
 
-[Reference.4](https://askubuntu.com/questions/175514/how-to-set-java-home-for-java){:target="_blank"}
+[.4](https://askubuntu.com/questions/175514/how-to-set-java-home-for-java){:target="_blank"}
 
-[Reference.5](https://linuxize.com/post/install-java-on-ubuntu-18-04/){:target="_blank"}
+[.5](https://linuxize.com/post/install-java-on-ubuntu-18-04/){:target="_blank"}
 
 For Better understanding on where to download & untar the JDK files
 [Refer Here](https://stackoverflow.com/questions/56066875/where-to-install-jdk-tar-gz-file-on-ubuntu-18.04){:target="_blank"}
