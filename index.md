@@ -119,7 +119,7 @@ Press <enter> to keep the current choice[*], or type selection number:
 
 
 References ~
----------
+----------
 [.1](https://mkyong.com/linux/how-to-set-environment-variable-in-ubuntu/){:target="_blank"}
 
 [.2](https://askubuntu.com/a/175519){:target="_blank"}
