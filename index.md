@@ -1,8 +1,7 @@
-# Download and Install java using tar
--------------------------------------
+## Download and Install java using tar
+--------------------------------------
 
-### Download "OpenJDK JDK 18.0.2.1" tar file from any of the following links 
-----------------------------------------------------------------------------
+* Download "OpenJDK JDK 18.0.2.1" a tar file from any of the following links 
 
 [OpenJDK 11.0.2 (build 11.0.2+9)](https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2_linux-x64_bin.tar.gz)
 
@@ -12,23 +11,26 @@
 
 [JDK](https://openjdk.org/projects/jdk/11/)
 
-
 ```
 wget https://download.java.net/java/GA/jdk18.0.2.1/db379da656dc47308e138f21b33976fa/1/GPL/openjdk-18.0.2.1_linux-x64_bin.tar.gz
 ```
 ```
 ls
 ```
+
 ```
 sudo mkdir /usr/lib/jvm/
 ```
+
 ```
 sudo tar zxvf openjdk-18.0.2.1_linux-x64_bin.tar.gz --directory /usr/lib/jvm/
 ```
+
 ```
 sudo echo 'JAVA_HOME=/usr/lib/jvm/jdk-18.0.2.1' >> /etc/environment
 sudo echo 'MY_HOME=/home/ubuntu' >> /etc/environment
 ```
+
 ```
 . /etc/environment
 ```
@@ -49,9 +51,9 @@ sudo echo 'export MY_HOME=/home/ubuntu' > /etc/profile.d/new-env.sh
 source /etc/profile
 ```
 
-### If we need to set the _$JAVA_HOME_ variable.
+* If we need to set the _$JAVA_HOME_ variable.
 
-In my case while setting up _Maven_, I had to set it up to where **JDK** is installed.
+* In our case, while setting up _Maven_, we need to set it where the **JDK** is installed.
 
 1. Checking where's JAVA installed
 ```
