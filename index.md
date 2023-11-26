@@ -132,7 +132,7 @@ References ~
 [.5](https://linuxize.com/post/install-java-on-ubuntu-18-04/){:target="_blank"}
 
 For Better understanding on where to download & extract the JDK files
-[Refer Here](https://stackoverflow.com/questions/56066875/where-to-install-jdk-tar-gz-file-on-ubuntu-18.04){:target="_blank"}
+_[Refer Here](https://stackoverflow.com/questions/56066875/where-to-install-jdk-tar-gz-file-on-ubuntu-18.04)_{:target="_blank"}
 
+<p style="text-align: left"><img src="./java.png"></p>
 
-![Preview](java.png)
